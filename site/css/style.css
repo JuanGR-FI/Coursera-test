@@ -40,9 +40,9 @@ p {
 	position: absolute;
 	top: 0;
 	right: 0;
-	border-left: 2px solid black;
-	border-bottom: 2px solid black;
-	padding: 6px 75px;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	padding: 6px 50px;
 }
 
 
